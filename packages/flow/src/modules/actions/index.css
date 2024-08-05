@@ -1,0 +1,7 @@
+.actions-container {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
